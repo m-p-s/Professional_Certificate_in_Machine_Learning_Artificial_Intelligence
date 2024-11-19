@@ -23,7 +23,7 @@ The provided dataset contains information on 426K cars to ensure the speed of pr
 As a result of our analysis, we should provide clear recommendations to your client—a used car dealership—as to what consumers value in a used car.
 
 ### 2. Data Understanding
-Initial Data Collection: The dataset contains detailed information about various vehicles available for sale across different regions, primarily in Alabama and Arizona. Each entry includes:
+The dataset contains detailed information about various vehicles available for sale across different regions, primarily in Alabama and Arizona. Each entry includes:
 - **ID**: Unique identifier for each vehicle.
 - **Region**: Location where the vehicle is being sold.
 - **Price**: Listed price of the vehicle.
@@ -47,33 +47,22 @@ Earliest Year: The oldest vehicle in the dataset is from 1966.
 Latest Year: The most recent vehicle is from 2021.
 
 ### 3. Data Preparation
-Cleaning and Preprocessing:
 
 Missing Values: Identify and handle missing values in columns such as manufacturer, model, condition, cylinders, fuel, odometer, title status, transmission, VIN, drive, size, type, and paint color.
 Data Types: Ensure all columns have appropriate data types (e.g., numerical for price and odometer, categorical for condition and type).
 Normalization: Normalize numerical values like price and odometer to ensure consistency.
 Categorical Encoding: Convert categorical variables into numerical values for modeling purposes.
 
+**vehicles.csv**: Raw data.
+**vehicles_no_null.csv** : Removed nan and missing values filled with IterativeImputer.
+**vehicles_pre_processed.csv** : Removed outliers and data is promed for modeling.
 
 ### 4. Modeling
-Model Selection:
-
-Regression Models: To predict vehicle prices based on features like year, manufacturer, model, condition, mileage, and location.
-Classification Models: To classify vehicles into different condition categories (e.g., good, excellent, fair) based on their features.
-Clustering Models: To identify clusters of similar vehicles, which can help in understanding market segments.
-
+Models used to predict vehicle prices based on features like year, manufacturer, model, condition, mileage, and location were Linear Regression, Ridge Regression and Lasso Regression.
 
 ### 5. Evaluation
-Model Evaluation:
-
-Performance Metrics: Use metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) for regression models, and accuracy, precision, recall for classification models.
-Cross-Validation: Perform cross-validation to ensure the models are robust and not overfitting.
+Used metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) for regression models, and accuracy, precision, recall for classification models.
 Feature Importance: Analyze feature importance to understand which attributes most significantly impact vehicle prices and conditions.
-
-
-### 6. Deployment
-Implementation:
-TBD.
 
 ## Score Table
 ![Model results](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/Overall-Performance.jpg)
