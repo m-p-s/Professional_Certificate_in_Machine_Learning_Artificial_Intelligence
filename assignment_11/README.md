@@ -7,13 +7,14 @@ This process provides a framework for working through a data problem.
 Our first step in this application will be to read through a brief.
 
 
-1. Business Understanding/Project objective:
+
+### 1. Business Understanding/Project objective:
 In this application, we explore a dataset from Kaggle. The original dataset contained information on 3 million used cars.
 The provided dataset contains information on 426K cars to ensure the speed of processing.
 
 As a result of our analysis, we should provide clear recommendations to your client—a used car dealership—as to what consumers value in a used car.
 
-2. Data Understanding
+### 2. Data Understanding
 Initial Data Collection: The dataset contains detailed information about various vehicles available for sale across different regions, primarily in Alabama and Arizona. Each entry includes:
 - **ID**: Unique identifier for each vehicle.
 - **Region**: Location where the vehicle is being sold.
@@ -37,7 +38,7 @@ Initial Data Collection: The dataset contains detailed information about various
 Earliest Year: The oldest vehicle in the dataset is from 1966.
 Latest Year: The most recent vehicle is from 2021.
 
-3. Data Preparation
+### 3. Data Preparation
 Cleaning and Preprocessing:
 
 Missing Values: Identify and handle missing values in columns such as manufacturer, model, condition, cylinders, fuel, odometer, title status, transmission, VIN, drive, size, type, and paint color.
@@ -46,7 +47,7 @@ Normalization: Normalize numerical values like price and odometer to ensure cons
 Categorical Encoding: Convert categorical variables into numerical values for modeling purposes.
 
 
-4. Modeling
+### 4. Modeling
 Model Selection:
 
 Regression Models: To predict vehicle prices based on features like year, manufacturer, model, condition, mileage, and location.
@@ -54,7 +55,7 @@ Classification Models: To classify vehicles into different condition categories 
 Clustering Models: To identify clusters of similar vehicles, which can help in understanding market segments.
 
 
-5. Evaluation
+### 5. Evaluation
 Model Evaluation:
 
 Performance Metrics: Use metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) for regression models, and accuracy, precision, recall for classification models.
@@ -62,7 +63,7 @@ Cross-Validation: Perform cross-validation to ensure the models are robust and n
 Feature Importance: Analyze feature importance to understand which attributes most significantly impact vehicle prices and conditions.
 
 
-6. Deployment
+### 6. Deployment
 Implementation:
 TBD.
 
