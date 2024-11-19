@@ -78,6 +78,6 @@ TBD.
 ## Score Table
 ![Model results](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/Overall-Performance.jpg)
 
-![Errors](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/errors.csv)
+![Alt Errors](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/errors.csv)
 
 ## Conclusion, Recommendation, and Next Steps
