@@ -87,3 +87,4 @@ Linear Regression is the better model because: It has the lowest MSLE and Root M
 The R2 Score for all models is nearly identical, with no practical advantage in using Ridge or Lasso in this case.
 
 ## Conclusion:
+All models suggest that "Year" and "Odometer" are the features that contributes to the model. The used car dealer should take these two factors into consideration for selling the cars.
