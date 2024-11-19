@@ -80,4 +80,10 @@ TBD.
 
 ![Alt Errors](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/errors.png)
 
+
+Linear Regression has the lowest MSLE (0.0023433223), indicating slightly better performance in predicting the target variable compared to Ridge and Lasso. Linear Regression has the smallest value (0.0484078745), suggesting it is marginally better at minimizing logarithmic errors.
+Lasso Regression has the highest R2 (63.2771%), but the difference is negligible (0.0001%) compared to the other models.
+Linear Regression is the better model because: It has the lowest MSLE and Root MSLE, indicating better overall predictive accuracy.
+The R2 Score for all models is nearly identical, with no practical advantage in using Ridge or Lasso in this case.
+
 ## Conclusion, Recommendation, and Next Steps
