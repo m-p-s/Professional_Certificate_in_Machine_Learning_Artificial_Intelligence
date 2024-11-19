@@ -1,10 +1,11 @@
+# **Used Car sales - what factors make a car more or less expensive**
 ![Alt CRISP-DM](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/kurt.jpeg)
 
-# **Used Car sales - what factors make a car more or less expensive**
 
-![Alt CRISP-DM](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/crisp.png)
 
 **CRISP-DM Framework(Cross-Industry Standard Process for Data Mining): This application makes use of CRISP-DM framework.**
+![Alt CRISP-DM](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/crisp.png)
+
 
 To frame the task, throughout these practical applications, we will refer to a standard process in the industry for data projects called CRISP-DM.
 This process provides a framework for working through a data problem.
