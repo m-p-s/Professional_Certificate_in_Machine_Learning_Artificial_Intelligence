@@ -53,7 +53,7 @@ Data Types: Ensure all columns have appropriate data types (e.g., numerical for 
 Normalization: Normalize numerical values like price and odometer to ensure consistency.
 Categorical Encoding: Convert categorical variables into numerical values for modeling purposes.
 
-- **vehicles.csv**: Raw data
+- **vehicles.csv**: Raw data.
 - **vehicles_no_null.csv** : Removed nan and missing values filled with IterativeImputer.
 - **vehicles_pre_processed.csv** : Removed outliers and data is promed for modeling.
 
