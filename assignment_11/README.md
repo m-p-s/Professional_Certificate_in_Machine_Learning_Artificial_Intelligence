@@ -86,4 +86,4 @@ Lasso Regression has the highest R2 (63.2771%), but the difference is negligible
 Linear Regression is the better model because: It has the lowest MSLE and Root MSLE, indicating better overall predictive accuracy.
 The R2 Score for all models is nearly identical, with no practical advantage in using Ridge or Lasso in this case.
 
-## Conclusion, Recommendation, and Next Steps
+## Conclusion:
