@@ -1,3 +1,5 @@
+![Alt CRISP-DM]https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/kurt.jpeg
+
 # **Used Car sales - what factors make a car more or less expensive**
 
 ![Alt CRISP-DM](https://github.com/m-p-s/Professional_Certificate_in_Machine_Learning_Artificial_Intelligence/blob/main/assignment_11/images/crisp.png)
