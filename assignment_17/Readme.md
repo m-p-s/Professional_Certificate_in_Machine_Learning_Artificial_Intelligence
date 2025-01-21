@@ -81,7 +81,7 @@ Based on the analysis of the dataset and the evaluation of multiple machine lear
 ***Utilize Predictive Modeling:***	Deploy the Support Vector Machine (SVM) model or Logistic Regression, as these classifiers demonstrated the best overall performance in predicting campaign success.  
 Integrate the chosen model into the bank's campaign management systems to identify potential clients more likely to subscribe to the product.
 
-***Focus on Data-Driven Campaign Strategies:***Leverage the feature importance analysis to identify the most influential factors (e.g., age, occupation, or economic indicators) that impact client decisions.Customize campaign strategies and target groups based on these insights to maximize outreach efficiency.
+***Focus on Data-Driven Campaign Strategies:*** Leverage the feature importance analysis to identify the most influential factors (e.g., age, occupation, or economic indicators) that impact client decisions.Customize campaign strategies and target groups based on these insights to maximize outreach efficiency.
 
 ***Improve Campaign Timing and Messaging:*** Use data insights to optimize the timing of calls and tailor messages that align with client preferences and economic trends.Ensure personalized communication to improve client engagement.
 
