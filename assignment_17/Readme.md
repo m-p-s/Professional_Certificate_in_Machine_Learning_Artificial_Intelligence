@@ -12,7 +12,7 @@ Our dataset comes from the UCI Machine Learning repository [link](https://archiv
 
 The analysis aims to understand dataset characteristics, implement classifiers, and assess their performance using appropriate metrics.
 
-**Dataset Description:** The dataset contains results from marketing campaigns conducted via phone calls. Each entry represents whether a particular client subscribed to a term deposit, along with various features such as:
+**Dataset Description:**  The dataset contains results from marketing campaigns conducted via phone calls. Each entry represents whether a particular client subscribed to a term deposit, along with various features such as:
 
 **Client Information:** Age, job, marital status, education.  
 **Contact Details:** Contact type, day, and month.  
