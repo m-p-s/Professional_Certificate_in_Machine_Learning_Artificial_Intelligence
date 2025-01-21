@@ -12,7 +12,7 @@ Our dataset comes from the UCI Machine Learning repository [link](https://archiv
 
 The analysis aims to understand dataset characteristics, implement classifiers, and assess their performance using appropriate metrics.
 
-**Dataset Description:**The dataset contains results from marketing campaigns conducted via phone calls. Each entry represents whether a particular client subscribed to a term deposit, along with various features such as:
+**Dataset Description:** The dataset contains results from marketing campaigns conducted via phone calls. Each entry represents whether a particular client subscribed to a term deposit, along with various features such as:
 
 **Client Information:** Age, job, marital status, education.  
 **Contact Details:** Contact type, day, and month.  
@@ -89,7 +89,7 @@ Integrate the chosen model into the bank's campaign management systems to identi
 
 ***Explore Advanced Techniques:*** Consider ensemble models like Random Forests or Gradient Boosting to enhance prediction accuracy and robustness.Experiment with automated hyperparameter tuning methods for further performance improvements.
 
-***Measure Impact:***Track the return on investment (ROI) for campaigns using predictive modeling to quantify the model's impact.Compare outcomes of data-driven campaigns with prior approaches to validate the effectiveness of the recommendations.
+***Measure Impact:*** Track the return on investment (ROI) for campaigns using predictive modeling to quantify the model's impact.Compare outcomes of data-driven campaigns with prior approaches to validate the effectiveness of the recommendations.
 
 Implementing these recommendations can help the bank optimize its marketing efforts, reduce costs, and improve client acquisition rates for long-term deposit products.
 
