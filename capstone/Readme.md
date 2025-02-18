@@ -25,13 +25,13 @@ The dataset provides valuable insights into the distribution of immigrants based
 **Top Immigration Categories**
 Preliminary exploratory data analysis (EDA) indicates that the four most prominent immigration categories are:
 
-**Sponsored Spouse
-Skilled Worker
-Canadian Experience
-Provincial Nominee Program
-Regional Growth Trends and Variability
-**
-Steady Growth vs. Fluctuations: Provinces such as Quebec and Ontario exhibit more stable immigration trends, whereas regions like Newfoundland and Labrador and Prince Edward Island demonstrate significant fluctuations.
+_Sponsored Spouse_
+_Skilled Worker_
+_Canadian Experience_
+_Provincial Nominee Program_
+_Regional Growth Trends and Variability_
+
+**Steady Growth vs. Fluctuations:** Provinces such as Quebec and Ontario exhibit more stable immigration trends, whereas regions like Newfoundland and Labrador and Prince Edward Island demonstrate significant fluctuations.
 COVID-19 Impact (2020): A decline in immigration numbers is observed across most provinces around 2020, likely due to the impact of the COVID-19 pandemic.
 Future Projections: Based on the linear model analysis:
 Provinces such as Nova Scotia, New Brunswick, and Alberta are projected to experience steady growth in immigration.
